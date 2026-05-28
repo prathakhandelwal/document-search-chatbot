@@ -183,11 +183,11 @@ http://127.0.0.1:8000/docs
 * [x] FastAPI setup
 * [x] Project structure
 * [x] Virtual environment setup
+* [x] File upload API
+* [x] File text extraction
 
 ## Upcoming
 
-* [ ] PDF upload API
-* [ ] PDF text extraction
 * [ ] Text chunking
 * [ ] Embedding generation
 * [ ] Vector storage
